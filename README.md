@@ -8,4 +8,4 @@ Get started
 3. Download and install Java
    https://www.java.com/download/ie_manual.jsp
 4. To create database run at the  sql/crt_user.sql and sql/create_schima.sql
-5. If you want to load test data you can ran all sql/TEST_DATA
+5. If you want to load test data you can run all sql/TEST_DATA
